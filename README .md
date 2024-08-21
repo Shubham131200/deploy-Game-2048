@@ -1,6 +1,6 @@
 # AWS EKS 
 
-## Introduction
+## Introduction (you can also refer the game2048 amazon docx file where all screenshot is present)
 
 ## Table of Contents:
 
